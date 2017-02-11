@@ -11,7 +11,7 @@ Customize it by changing the colors, the sizes, the fonts, the shadows...
 
 
 ## DEMO
-Do not hesitate to check out the demo on codepen:
+Do not hesitate to check out the demo on codepen:  
 https://codepen.io/meiloo/pen/oBQRjz
 
 
