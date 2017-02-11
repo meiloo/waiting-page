@@ -1,11 +1,8 @@
 # Basic Waiting Page
 
-Simple Page used when you first bought a domain and want to show a message while you're building the website.
-
-A horizontally and vertically centered box in the screen. 
-
-Simple and straight forward HTML5 / CSS3 using flexboxes.
-
+Simple Page used when you first bought a domain and want to show a message while you're building the website.  
+A horizontally and vertically centered box in the screen.   
+Simple and straight forward HTML5 / CSS3 using flexboxes.  
 Customize it by changing the colors, the sizes, the fonts, the shadows...
 
 
@@ -19,7 +16,7 @@ https://codepen.io/meiloo/pen/oBQRjz
 
 
 ## Credits
-Marjorie Lazaro
+Marjorie Lazaro  
 Eric Meyer for the css resets
 
 
